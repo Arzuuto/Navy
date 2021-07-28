@@ -8,7 +8,7 @@ This a a first year project at EPITECH and there is unit tests where everything 
 
 Usage:
 
-make re
+make re  
 ./navy [first_player_pid] navy_positions
 
 first_player_pid: only for the 2nd player.
